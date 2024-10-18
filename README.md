@@ -46,7 +46,9 @@ Para executar os scripts em R, siga os passos abaixo:
 
 ## Exemplos de Gráficos
 
-No repositório, você encontrará imagens representando os gráficos gerados. Essas imagens ajudam a visualizar os resultados da análise e a interpretação dos dados. 
+![Gráfico 1](imagens/grafico_diario.png)
+![Gráfico 2](imagens/grafico_tds_dias1.png)
+![Gráfico 3](imagens/grafico_tds_dias2.png)
 
 ## Contribuições
 
@@ -61,6 +63,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 Para perguntas ou comentários, entre em contato:
 - **Nome**: Eduardo
 - **Email**: edutristaocomunale@gmail.com
-
-```
 
