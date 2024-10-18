@@ -46,9 +46,14 @@ Para executar os scripts em R, siga os passos abaixo:
 
 ## Exemplos de Gráficos
 
+###Gráfico Diário
 ![Gráfico 1](imagens/grafico_diario.png)
+Este gráfico apresenta uma visualização da atividade física diária das gestantes, destacando a intensidade do movimento ao longo do dia. Emojis indicativos são utilizados para representar diferentes níveis de atividade em relação ao horário, proporcionando uma compreensão intuitiva dos padrões de movimento. 
+
+###Gráfico de Todos os Dias 
 ![Gráfico 2](imagens/grafico_tds_dias1.png)
 ![Gráfico 3](imagens/grafico_tds_dias2.png)
+Esses gráficos mostram a evolução da atividade física ao longo de múltiplos dias, permitindo uma análise comparativa das tendências de movimento. Cada gráfico reúne dados de vários dias em uma única visualização, facilitando a identificação de padrões e variações na atividade física das gestantes durante o período analisado. A estrutura dos gráficos oferece insights valiosos sobre a consistência e a intensidade da atividade ao longo do tempo.
 
 ## Contribuições
 
