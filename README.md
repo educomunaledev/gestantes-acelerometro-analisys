@@ -57,7 +57,7 @@ Esses gráficos mostram a evolução da atividade física ao longo de múltiplos
 
 ## Contribuições
 
-Este projeto foi desenvolvido por Eduardo.  
+Os dados para este estudo foram provenientes de coleta por formulário e por acelerômetros acoplados a um relógio, utilizados pelas gestantes participantes do projeto. Todo o processo de coleta foi realizado pelo Laboratório LAB C3 da Faculdade de Medicina de Ribeirão Preto, com o devido consentimento das participantes, que assinaram um termo de sigilo e autorização. Os dados estão em formato planilhas .CSV. Este projeto foi desenvolvido por Eduardo Comunale.  
 
 ## Licença
 
@@ -66,6 +66,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato
 
 Para perguntas ou comentários, entre em contato:
-- **Nome**: Eduardo
+- **Nome**: Eduardo Comunale
 - **Email**: edutristaocomunale@gmail.com
 
